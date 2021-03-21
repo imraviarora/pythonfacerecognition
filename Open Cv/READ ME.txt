@@ -1,0 +1,3 @@
+extract and paste cv2 folder into
+
+C:\Users\RAVI\AppData\Local\Programs\Python\Python37-32\Lib\site-packages
